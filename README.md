@@ -8,7 +8,7 @@ tensorflow-gpu==1.14.0\
 tensorflow-determinismu==0.3.0\
 numpy==1.21.6
 
-## References and Github links
+## References and Github Links
 [1] Mustafa, M.A. A data-driven learning approach to image registration. University of Nottingham. 2016.("https://github.com/Mustafa3946/Lucas-Kanade-3D-Optical-Flow")
 
 [2] Ayzel, G.; Heistermann, M.; Winterrath, T. Optical flow models as an open benchmark for radar-based precipitation nowcasting (rainymotion v0.1). Geoscientific Model Development 2019, 12, 1387-1402.("https://github.com/hydrogo/rainymotion")
