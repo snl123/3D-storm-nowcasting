@@ -5,7 +5,7 @@ Three-dimensional gridded radar echo extrapolation for convective storm nowcasti
 In general, several major packages are needed\
 python==3.7.2\
 tensorflow-gpu==1.14.0\
-tensorflow-determinismu==0.3.0\
+tensorflow-determinism==0.3.0\
 numpy==1.21.6
 
 ## References and Github Links
