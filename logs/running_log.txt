@@ -1,0 +1,21 @@
+2022-08-01 08:40:57,460 - log - INFO - ------------------- Time: 2022-08-01  08:40:57 begin running -------------------
+2022-08-01 08:40:58,309 - log - INFO - ------------------- Time: 2022-08-01  08:40:58 loading pretrain models -------------------
+2022-08-01 08:40:58,309 - log - INFO - Not found pretrain models, restart training..... 
+2022-08-01 08:40:58,309 - log - INFO - ------------------- Time: 2022-08-01  08:40:58 training parameters -------------------
+2022-08-01 08:40:58,309 - log - INFO - train_data_num: 4905
+2022-08-01 08:40:58,309 - log - INFO - valid_data_num: 716
+2022-08-01 08:40:58,310 - log - INFO - test_data_num: 967
+2022-08-01 08:40:58,310 - log - INFO - img_height: 120
+2022-08-01 08:40:58,310 - log - INFO - img_width: 120
+2022-08-01 08:40:58,310 - log - INFO - input_length: 8
+2022-08-01 08:40:58,310 - log - INFO - output_length: 12
+2022-08-01 08:40:58,310 - log - INFO - training_steps: 400000
+2022-08-01 08:40:58,311 - log - INFO - imgs_sum_steps: 500
+2022-08-01 08:40:58,311 - log - INFO - validation_sum_steps: 1226
+2022-08-01 08:40:58,311 - log - INFO - batch_size: 4
+2022-08-01 08:40:58,311 - log - INFO - val_batch_size: 10
+2022-08-01 08:40:58,311 - log - INFO - test_batch_size: 10
+2022-08-01 08:40:58,311 - log - INFO - optimizer: <class 'tensorflow.python.training.adam.AdamOptimizer'>
+2022-08-01 08:40:58,311 - log - INFO - generator_ini_learning_rate: 0.0001
+2022-08-01 08:40:58,311 - log - INFO - ------------------- Time: 2022-08-01  08:40:58 model parameters num -------------------
+2022-08-01 08:40:58,311 - log - INFO - ------------------- Time: 2022-08-01  08:40:58 start training -------------------
