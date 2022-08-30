@@ -5,6 +5,19 @@ This is a TensorFlow implementation of 3D-ConvLSTM, a three-dimensional gridded 
 
 If you use this method or this code in your research, please cite as:
 
+```
+@Article{rs14174256,
+AUTHOR = {Sun, Nengli and Zhou, Zeming and Li, Qian and Jing, Jinrui},
+TITLE = {Three-Dimensional Gridded Radar Echo Extrapolation for Convective Storm Nowcasting Based on 3D-ConvLSTM Model},
+JOURNAL = {Remote Sensing},
+VOLUME = {14},
+YEAR = {2022},
+NUMBER = {17},
+ARTICLE-NUMBER = {4256},
+DOI = {10.3390/rs14174256}
+}
+```
+
 ## Dependencies
 In general, several major packages are needed\
 python==3.7.2\
