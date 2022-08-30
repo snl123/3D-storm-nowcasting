@@ -1,5 +1,9 @@
 # 3D-storm-nowcasting
-Code for the paper: Three-dimensional gridded radar echo extrapolation for convective storm nowcasting based on a 3D-ConvLSTM model
+This is a TensorFlow implementation of 3D-ConvLSTM, a three-dimensional gridded radar echo extrapolation model for convective storm nowcasting as described in the following paper:
+
+* [Three-Dimensional Gridded Radar Echo Extrapolation for Convective Storm Nowcasting Based on 3D-ConvLSTM Model](http://https://www.mdpi.com/2072-4292/14/17/4256), by Nengli Sun, Zeming Zhou, Qian Li, and Jinrui Jing.
+
+If you use this method or this code in your research, please cite as:
 
 ## Dependencies
 In general, several major packages are needed\
